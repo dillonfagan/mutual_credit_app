@@ -1,0 +1,4 @@
+enum ExchangeTypeModel {
+  request,
+  send,
+}

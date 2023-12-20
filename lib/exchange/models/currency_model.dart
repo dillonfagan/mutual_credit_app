@@ -1,0 +1,4 @@
+enum CurrencyModel {
+  hour,
+  usd,
+}
